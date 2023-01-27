@@ -1,0 +1,1 @@
+This assignment was just the basic tutorial for git commands 

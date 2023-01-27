@@ -1,0 +1,2 @@
+This assignment was to use the "Inspect" function in the web browser to change elements in HTML file. 
+There are some screeenshots of the changes below. 
